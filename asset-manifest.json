@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/taquin-game/static/css/main.2c84fd95.css",
-    "main.js": "/taquin-game/static/js/main.14e52838.js",
+    "main.css": "/taquin-game/static/css/main.1d4d982c.css",
+    "main.js": "/taquin-game/static/js/main.df1f8baa.js",
     "static/js/27.e616e866.chunk.js": "/taquin-game/static/js/27.e616e866.chunk.js",
     "index.html": "/taquin-game/index.html"
   },
   "entrypoints": [
-    "static/css/main.2c84fd95.css",
-    "static/js/main.14e52838.js"
+    "static/css/main.1d4d982c.css",
+    "static/js/main.df1f8baa.js"
   ]
 }

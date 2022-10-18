@@ -4,7 +4,7 @@ The 15 puzzle (also called Gem Puzzle, Boss Puzzle, Game of Fifteen, Mystic Squa
 
 ![Image of taquin game](resources/taquin.png)
 
-[github page](https://alanwalter45.github.io/taquin-game/)
+Taquin Game - [github page](https://alanwalter45.github.io/taquin-game/)
 
 Inspired by :
 *   Nicolas Le Roux <mr.leroux.nicolas@gmail.com> - [github](https://github.com/NicolasLeRoux/simple-taquin-game)
